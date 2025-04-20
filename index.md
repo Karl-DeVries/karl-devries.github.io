@@ -1,3 +1,8 @@
+---
+layout: home
+katex: True
+---
+
 # About Me
 
 I'm a senior linguist at Google where I work primarily on human computation problems. 
