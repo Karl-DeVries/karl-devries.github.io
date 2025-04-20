@@ -3,6 +3,9 @@ linkedin_username: karl-devries-a1480864
 github_username:  karl-devries
 permalink: :title
 repository: "karl-devries/karl-devries.github.io"
+markdown: kramdown
+kramdown:
+    math_engine: katex
 plugins:
   - jekyll-relative-links
 relative_links:
