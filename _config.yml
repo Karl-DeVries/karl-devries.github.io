@@ -1,8 +1,12 @@
-theme: jekyll-theme-minimal
+title: Karl DeVries
+github_username:  karl-devries
+permalink: :title
+repository: "karl-devries/karl-devries.github.io"
 plugins:
   - jekyll-relative-links
 relative_links:
   enabled: true
   collections: true
+theme: jekyll-theme-minimal
 include:
   - README.md
