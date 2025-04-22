@@ -5,8 +5,8 @@ permalink: :title
 repository: "karl-devries/karl-devries.github.io"
 markdown: kramdown
 kramdown:
-    input: GFM
     math_engine: katex
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-relative-links
 relative_links:
